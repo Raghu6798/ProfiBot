@@ -25,3 +25,4 @@ tiktoken
 langchainhub
 langchain-huggingface
 serpapi
+google-search-results
